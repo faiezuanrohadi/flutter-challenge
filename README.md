@@ -22,6 +22,7 @@ Stockify is a simple Flutter app for tracking your favorite stocks. It utilizes 
 5. Apk can be found inside 'build\app\outputs\flutter-apk\app-release.apk'.
 
 ## Screenshots
+![Preview](https://github.com/faiezuanrohadi/flutter-challenge/assets/76549834/d0cf19cd-11d6-49de-bbc5-2e1322d1e7a7)
 
 
 ## Future Improvements
